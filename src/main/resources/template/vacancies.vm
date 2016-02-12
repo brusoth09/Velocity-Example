@@ -1,0 +1,6 @@
+########## ABC Company ##########
+We have $vacancies.size() vancancies from April
+#foreach( $vacancy in $vacancies )
+	$vacancy.position ---> $vacancy.salary
+#end
+Apply to hr@abc(pvt) Ltd.
